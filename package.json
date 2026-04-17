@@ -1,0 +1,26 @@
+{
+  "name": "final-custom-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@varity-labs/sdk": "^2.0.0-beta.11",
+    "@varity-labs/types": "^2.0.0-beta.5",
+    "@varity-labs/ui-kit": "^2.0.0-beta.10",
+    "next": "^15.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "thirdweb": "^5.119.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
